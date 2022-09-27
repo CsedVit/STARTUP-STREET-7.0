@@ -7396,8 +7396,8 @@ input[type=radio] {
     transform: translatex(-40%) scale(.8);
     opacity: .4;
     z-index: -1;
-   
-    
+
+
   }
 
   #item-1:checked~.cardss #song-2,
@@ -7406,8 +7406,8 @@ input[type=radio] {
     transform: translatex(40%) scale(.8);
     opacity: .4;
     z-index: -1;
-    
-    
+
+
   }
 
   #item-1:checked~.cardss #song-1,
@@ -7417,7 +7417,7 @@ input[type=radio] {
     opacity: 1;
     z-index: -1;
 
-    
+
   }
 
   .text_s {
@@ -7427,7 +7427,7 @@ input[type=radio] {
     padding: 3%;
     color: white;
     scroll-margin-top: 90%;
-    
+
   }
 
 
@@ -7441,7 +7441,7 @@ input[type=radio] {
   padding: 3%;
   color: white;
   position: relative;
- 
+
 }
 
 .image {
@@ -7458,7 +7458,7 @@ input[type=radio] {
   transform: translatex(-40%) scale(.8);
   opacity: .4;
   z-index: 0;
-  
+
 }
 
 
@@ -7466,7 +7466,7 @@ input[type=radio] {
   transform: translatex(-40%) scale(.8);
   opacity: .4;
   z-index: 0;
-  
+
 }
 
 
@@ -7476,8 +7476,8 @@ input[type=radio] {
   transform: translatex(0) scale(1);
   opacity: 1;
   z-index: 1;
-  
-  
+
+
 }
 
 */
