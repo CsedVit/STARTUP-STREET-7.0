@@ -76,7 +76,13 @@ body {
 /* Events */
 .eveh {
   /* margin-top: 50px; */
+  font-family: 'Readex Pro', sans-serif;
+
   margin-bottom: 20px;
+  text-align: left;
+  padding-top: 30px;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
 .evei {
